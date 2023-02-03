@@ -1,1 +1,3 @@
 # unlabeled-hierarchical-text-classification
+
+The objective of this case is to develop an NLP application that categorizes text into pre-defined tax-related categories, and allows users to interact with the categorized text through a dashboard. The text data is stored in a file named "text_segments.csv", and the categories are defined in "taxonomy.csv". The app should automatically categorize the text into parent and child categories, and allow users to filter the text by categories and relevance score. The application should also show the page number and document name where the text was found.
